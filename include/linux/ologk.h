@@ -3,6 +3,7 @@
 
 #include <linux/unistd.h>
 
+
 #define OLOG_CPU_FREQ_FILTER   1500000
 #define PERFLOG_MUTEX_THRESHOLD   20
 
@@ -11,4 +12,3 @@
 #define perflog_evt(...)
 
 #endif
-
